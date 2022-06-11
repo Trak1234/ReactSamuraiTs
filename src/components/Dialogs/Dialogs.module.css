@@ -1,0 +1,30 @@
+.main {
+    margin: 0 auto;
+    display:grid;
+    height: 500px;
+    grid-template-areas:
+    "h h"
+;
+
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 6fr 6fr;
+
+}
+
+.texta textarea {
+    width: 100px;
+    height: 40px;
+}
+
+
+.item {
+    color: black;
+}
+
+.item .active {
+    color:gold;
+}
+
+.message {
+    color:black;
+}
