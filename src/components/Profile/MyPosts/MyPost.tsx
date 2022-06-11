@@ -49,7 +49,7 @@ const MyPost = (props:MyPropsPost) => {
                 <h3>MyPosts</h3>
                 <div>
                     <div><textarea ref={postvalue}></textarea></div>
-                    <div><button onClick={ Click }>Add Post</button></div>
+                    <div><button onClick={ Click }>Add Postasdafasfas</button></div>
 
                 </div>
                 <div className={Mp.posts}>
